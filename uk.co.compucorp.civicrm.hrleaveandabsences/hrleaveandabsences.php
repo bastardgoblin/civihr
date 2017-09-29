@@ -3,7 +3,7 @@
 require_once 'hrleaveandabsences.civix.php';
 
 /**
- * Implements hook_civicrm_config().
+ * Implements hook_civicrm_config()
  *
  * @link http://wiki.civicrm.org/confluence/display/CRMDOC/hook_civicrm_config
  */
